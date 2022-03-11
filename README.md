@@ -2,6 +2,10 @@
 
 This is a turborepo vue 3 starter repository.
 
+<p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100" src="https://vuejs.org/images/logo.png" alt="Vue logo"></a></p>
+
+<p align="center"><a href="https://turborepo.org/" target="_blank" rel="noopener noreferrer"><img width="300" src="https://user-images.githubusercontent.com/4060187/106504110-82f58d00-6494-11eb-87b7-a16d4f68bc5a.png" alt="Turborepo logo"></a></p>
+
 ## What's inside?
 
 This turborepo uses [Yarn](https://classic.yarnpkg.com/lang/en/) as a package manager. It includes the following packages/apps:
