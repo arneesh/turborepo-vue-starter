@@ -1,6 +1,6 @@
-# Turborepo starter
+# Turborepo Vue 3 Starter
 
-This is a turborepo vue 3 starter reporitory.
+This is a turborepo vue 3 starter repository.
 
 ## What's inside?
 
