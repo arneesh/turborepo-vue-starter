@@ -1,6 +1,7 @@
 {
   "name": "web",
   "version": "0.0.0",
+  "author": "Arneesh Aima",
   "scripts": {
     "dev": "vite --port 3000",
     "build": "vite build",
