@@ -1,7 +1,7 @@
 {
   "name": "config",
   "version": "0.0.0",
-  "main": "index.js",
+  "main": "eslint-preset.js",
   "license": "MIT",
   "files": [
     "eslint-preset.js"
