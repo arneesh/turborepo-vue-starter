@@ -1,0 +1,23 @@
+version: "3"
+
+services:
+  web:
+    container_name: web
+    build:
+      args:
+        APP_SCOPE : "web"
+      context: .
+      dockerfile: ./docker/Dockerfile
+    restart: always
+    ports:
+      - "3000:80"
+  docs:
+    container_name: docs
+    build:
+      args:
+        APP_SCOPE: "docs"
+      context: .
+      dockerfile: ./docker/Dockerfile
+    restart: always
+    ports:
+      - "3001:80"
