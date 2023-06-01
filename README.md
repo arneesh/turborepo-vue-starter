@@ -68,16 +68,16 @@ _Note: Dockerfile only works to build docker image to deploy and does not suppor
 
 #### How to build
 Run this command to build a docker image where the {SCOPE_NAME} is the workspace you want to build
-```go
+```shell
 docker-compose up {SCOPE_NAME} 
 ```
 
 For example:
-```go
+```shell
 docker-compose up web
 ```
 Brings up web app and
-```go
+```shell
 docker-compose up docs
 ```
 Brings up docs app 
@@ -97,7 +97,7 @@ if you want to add another app and build a docker image for it, you can just add
 ```
 
 and run 
-```go
+```shell
 docker-compose up newapp
 ```
 to bring up newapp app
